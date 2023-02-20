@@ -1,0 +1,1 @@
+# CAM-Signals-processing-Loading and processing of one independent signal. Processing in the frequency domain. Consideration of the effect of the sum on the transmission, consideration of the effect of the error on the transmission of the CAM signal. Demodulation of CAM signals and graphing in the spectral domain
